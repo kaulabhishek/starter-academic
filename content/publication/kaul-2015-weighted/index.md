@@ -52,4 +52,5 @@ abstract: Standard formulations of prediction problems in high dimension regress
 publication: '*Journal of Multivariate Analysis*'
 url_pdf: media/jmva.pdf
 doi: http://dx.doi.org/10.1016/j.jmva.2015.04.009
+math: true
 ---

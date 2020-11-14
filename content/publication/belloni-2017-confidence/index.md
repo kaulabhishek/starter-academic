@@ -33,7 +33,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2020-11-13T04:43:22.152577Z'
-publication_types:
+publication_types: 
 - '2'
 abstract: We study high-dimensional linear models with error-in-variables. Such models
   are motivated by various applications in econometrics, finance and genetics. These

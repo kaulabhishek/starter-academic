@@ -40,9 +40,9 @@ publication_types:
 abstract: We propose a new estimator for the change point parameter in a dynamic high
   dimensional graphical model setting. We show that the proposed estimator retains
   sufficient adaptivity against plugin estimates of the edge structure of the underlying
-  graphical models, in order to yield an $O(ψ^-2)$ rate of convergence of the change
+  graphical models, in order to yield an $O(\psi^{-2})$ rate of convergence of the change
   point estimator in the integer scale. This rate is preserved while allowing high
-  dimensionality as well as a diminishing jump size $ψ,$ provided $słog^3/2(pěe T)=obig(√(Tl_T)big).$
+  dimensionality as well as a diminishing jump size $ψ,$ provided $s\log^3/2(p\vee T)=o(\surd(Tl_T)).$
   Here $s,p,T$ and $l_T$ represent a sparsity parameter, model dimension, sampling
   period and the separation of the change point from its parametric boundary, respectively.
   Moreover, since the rate of convergence is free of $s,p$ and logarithmic terms of
@@ -51,4 +51,5 @@ abstract: We propose a new estimator for the change point parameter in a dynamic
   distribution. Theoretical results are supported numerically with monte carlo simulations.
 publication: '*arXiv preprint arXiv:2005.09711*'
 url_pdf: media/arxiv_graphical.pdf
+math: true
 ---

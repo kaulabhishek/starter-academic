@@ -36,15 +36,15 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2020-11-13T04:43:20.380969Z'
-publication_types:
+publication_types: 
 - '2'
 abstract: We study a plug in least squares estimator for the change point parameter
   where change is in the mean of a high dimensional random vector under subgaussian
   or subexponential distributions. We obtain sufficient conditions under which this
   estimator possesses sufficient adaptivity against plug in estimates of mean parameters
-  in order to yield an optimal rate of convergence $O_p(ξ^-2)$ in the integer scale.
+  in order to yield an optimal rate of convergence $O_p(\xi^{-2})$ in the integer scale.
   This rate is preserved while allowing high dimensionality as well as a potentially
-  diminishing jump size $ξ,$ provided $słog (pěe T)=o(√(Tl_T))$ or $słog^3/2(pě T)=o(√(Tl_T))$
+  diminishing jump size $\xi,$ provided $s\log (p\vee T)=o(\surd(Tl_T))$ or $s\log^3/2(p\vee T)=o(\surd(Tl_T))$
   in the subgaussian and subexponential cases, respectively. Here $s,p,T$ and $l_T$
   represent a sparsity parameter, model dimension, sampling period and the separation
   of the change point from its parametric boundary, respectively. Moreover, since
@@ -57,4 +57,5 @@ abstract: We study a plug in least squares estimator for the change point parame
   provided. Theoretical results are supported with monte-carlo simulations.
 publication: '*arXiv preprint arXiv:2007.01888*'
 url_pdf: media/arxiv_ejs.pdf
+math: true
 ---
